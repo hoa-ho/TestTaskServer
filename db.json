@@ -37,7 +37,7 @@
                "title": "Book all team travel",
                "creator": "George Olsen",
                "status": "Open",
-               "ref": null,
+               "ref": "",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -45,7 +45,7 @@
                "title": "Create hi-fidelity designs in Sketch",
                "creator": "George Olsen",
                "status": "Open",
-               "ref": null,
+               "ref": "",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -53,7 +53,7 @@
                "title": "Design interior page templates",
                "creator": "Barack Obama",
                "status": "Open",
-               "ref": null,
+               "ref": "",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -61,7 +61,7 @@
                "title": "Publish blog post",
                "creator": "Victoria Rickshaw",
                "status": "Open",
-               "ref": null,
+               "ref": "",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -77,7 +77,7 @@
                "title": "404 redirects in place",
                "creator": "Shinhwa Cheng",
                "status": "Close",
-               "ref": null,
+               "ref": "",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -93,7 +93,7 @@
                "title": "Create user journey and interaction flows",
                "creator": "Llama Bama",
                "status": "Open",
-               "ref": null,
+               "ref": "",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -101,7 +101,7 @@
                "title": "Font and image licensing",
                "creator": "Space Cat",
                "status": "Closed",
-               "ref": null,
+               "ref": "",
                "timestamp": "9/22/2019 1:15 PM"
          },
          {
@@ -109,7 +109,7 @@
                "title": "Web copy drafted",
                "creator": "Hoa Ho",
                "status": "Open",
-               "ref": null,
+               "ref": "",
                "timestamp": "9/22/2019 1:15 PM"
          }
     ]
