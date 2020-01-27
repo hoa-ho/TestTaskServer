@@ -8,19 +8,7 @@
                "ref": 1848394,
                "completedTasks": 0,
                "totalTasks": 3,
-               "timestamp": "9/21/2019 5:46 PM",
-               "todo": [
-                    {
-                         "id": 58383,
-                         "title": "Subtask 1",
-                         "status": "Open"
-                    },
-                    {
-                         "id": 93928,
-                         "title": "Subtask 2",
-                         "status": "Completed"
-                    }
-               ]
+               "timestamp": "9/21/2019 5:46 PM"
          },
          {
                "id": 3831,
@@ -30,19 +18,7 @@
                "ref": 1848394,
                "completedTasks": 2,
                "totalTasks": 5,
-               "timestamp": "9/22/2019 1:15 PM",
-               "todo": [
-                    {
-                         "id": 58386,
-                         "title": "Subtask 12",
-                         "status": "Open"
-                    },
-                    {
-                         "id": 93929,
-                         "title": "Subtask 2s",
-                         "status": "Completed"
-                    }
-               ]
+               "timestamp": "9/22/2019 1:15 PM"
          },
          {
                "id": 3832,
@@ -163,6 +139,33 @@
                "completedTasks": 1,
                "totalTasks": 2,
                "timestamp": "9/22/2019 1:15 PM"
+         }
+    ],
+
+    "todo": [
+         {
+              "id": 58383,
+              "title": "Subtask 1",
+              "status": "Open",
+              "ref": 3831
+         },
+         {
+              "id": 93928,
+              "title": "Subtask 2",
+              "status": "Completed",
+              "ref": 3831
+         },
+         {
+              "id": 58386,
+              "title": "Subtask 12",
+              "status": "Open",
+              "ref": 3832
+         },
+         {
+              "id": 93929,
+              "title": "Subtask 2s",
+              "status": "Completed",
+              "ref": 3832
          }
     ]
 }
