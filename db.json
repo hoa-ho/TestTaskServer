@@ -20,7 +20,7 @@
                "completedTasks": 2,
                "totalTasks": 5,
                "timestamp": "9/22/2019 1:15 PM",
-               "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy."
+               "description": "It is a long established fact that a reader will be distracted."
          },
          {
                "id": 3832,
@@ -31,7 +31,7 @@
                "completedTasks": 1,
                "totalTasks": 4,
                "timestamp": "9/22/2019 1:15 PM",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pulvinar nisl a urna hendrerit tincidunt. Vestibulum at dolor consectetur, tristique nisl et, tempus erat. Sed justo mauris, lacinia nec placerat pretium, semper in erat. Aliquam quis turpis congue, imperdiet erat tempus, tristique lectus. Nulla dui lectus, eleifend rhoncus ipsum sit amet, accumsan hendrerit lacus. Maecenas tincidunt lacinia dui, eget iaculis justo aliquam vel. Proin vitae laoreet felis."
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
          },
          {
                "id": 3833,
@@ -42,7 +42,7 @@
                "completedTasks": 1,
                "totalTasks": 1,
                "timestamp": "9/22/2019 1:15 PM",
-               "description": "Praesent imperdiet, nisl vitae vehicula sagittis, ipsum tortor lobortis tortor, ac aliquam justo dui ut purus. Ut porttitor sapien at urna mollis laoreet. Sed eget nunc ut ipsum pretium egestas. Cras bibendum accumsan pharetra. Donec posuere nulla et ipsum elementum vulputate. Fusce vestibulum malesuada consectetur. Curabitur dapibus varius turpis quis malesuada. Nulla in est vitae turpis malesuada volutpat quis nec leo."
+               "description": "Praesent imperdiet, nisl vitae vehicula sagittis, ipsum tortor lobortis tortor, ac aliquam justo dui ut purus."
          },
          {
                "id": 3834,
@@ -53,7 +53,7 @@
                "completedTasks": 2,
                "totalTasks": 3,
                "timestamp": "9/22/2019 1:15 PM",
-               "description": "Vestibulum eros magna, interdum a dolor tristique, molestie placerat nulla. Sed molestie nunc eros, et dignissim nulla interdum vel. Pellentesque nunc sem, consectetur ac porttitor at, mattis et lacus. Mauris quis velit ipsum. Nulla mattis ipsum metus. Curabitur ut massa porttitor, rhoncus ligula vestibulum, ornare felis. Donec aliquam vel nunc ac accumsan."
+               "description": "Vestibulum eros magna, interdum a dolor tristique, molestie placerat nulla. Sed molestie nunc eros."
          },
          {
                "id": 3835,
@@ -64,7 +64,7 @@
                "completedTasks": 3,
                "totalTasks": 7,
                "timestamp": "9/22/2019 1:15 PM",
-               "description": "Nam dignissim leo et risus hendrerit rhoncus. Curabitur mauris dolor, ultricies non leo non, scelerisque hendrerit nisi. Ut sed enim lobortis lacus luctus interdum id eget ex. Fusce non purus quam. Aenean aliquet malesuada nibh eu suscipit. Vivamus pellentesque faucibus turpis et semper. Nulla feugiat lacus eu rutrum condimentum. Phasellus fermentum eget elit et tincidunt. Integer vestibulum laoreet suscipit. Nullam nec eros nisi. Ut sed viverra nunc, sit amet lobortis libero."
+               "description": "Nam dignissim leo et risus hendrerit rhoncus. Curabitur mauris dolor, ultricies non leo non, scelerisque hendrerit nisi."
          },
          {
                "id": 3836,
@@ -75,7 +75,7 @@
                "completedTasks": 0,
                "totalTasks": 2,
                "timestamp": "9/22/2019 1:15 PM",
-               "description": "Praesent ut velit nec erat vestibulum luctus. Suspendisse lacinia malesuada blandit. Suspendisse quis interdum tortor. Donec est lacus, vulputate ut erat sed, consectetur malesuada odio. Morbi lobortis dapibus nisi, quis commodo dui tincidunt non. Phasellus nibh quam, tincidunt dapibus mauris sit amet, faucibus molestie nisl."
+               "description": "Praesent ut velit nec erat vestibulum luctus. Suspendisse lacinia malesuada blandit. Suspendisse quis interdum tortor. Donec est lacus, vulputate ut erat sed, consectetur malesuada odio. Morbi lobortis dapibus nisi, quis commodo dui tincidunt non."
          },
          {
                "id": 3837,
@@ -86,7 +86,7 @@
                "completedTasks": 1,
                "totalTasks": 5,
                "timestamp": "9/22/2019 1:15 PM",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pulvinar nisl a urna hendrerit tincidunt. Vestibulum at dolor consectetur, tristique nisl et, tempus erat. Sed justo mauris, lacinia nec placerat pretium, semper in erat. Aliquam quis turpis congue, imperdiet erat tempus, tristique lectus. Nulla dui lectus."
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
          },
          {
                "id": 3838,
@@ -97,7 +97,7 @@
                "completedTasks": 0,
                "totalTasks": 1,
                "timestamp": "9/22/2019 1:15 PM",
-               "description": "Vestibulum eros magna, interdum a dolor tristique, molestie placerat nulla. Sed molestie nunc eros, et dignissim nulla interdum vel. Pellentesque nunc sem, consectetur ac porttitor at, mattis et lacus. Mauris quis velit ipsum. Nulla mattis ipsum metus. Curabitur ut massa porttitor, rhoncus ligula vestibulum, ornare felis. Donec aliquam vel nunc ac accumsan."
+               "description": "Vestibulum eros magna, interdum a dolor tristique, molestie placerat nulla. Sed molestie nunc eros, et dignissim nulla interdum vel."
          },
          {
                "id": 3839,
@@ -152,7 +152,7 @@
                "completedTasks": 1,
                "totalTasks": 2,
                "timestamp": "9/22/2019 1:15 PM",
-               "description": "Vestibulum eros magna, interdum a dolor tristique, molestie placerat nulla. Sed molestie nunc eros, et dignissim nulla interdum vel. Pellentesque nunc sem, consectetur ac porttitor at, mattis et lacus. Mauris quis velit ipsum. Nulla mattis ipsum metus. Curabitur ut massa porttitor, rhoncus ligula vestibulum, ornare felis. Donec aliquam vel nunc ac accumsan."
+               "description": "Vestibulum eros magna."
          }
     ],
 
