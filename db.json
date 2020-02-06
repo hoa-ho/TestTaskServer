@@ -181,5 +181,20 @@
               "status": "Completed",
               "ref": 3832
          }
-    ]
+    ],
+
+    "taskMenu": [
+         {
+              "id": 284,
+              "name": "Complete Task"
+         },
+         {
+              "id": 285,
+              "name": "Uncomplete Task"
+         },
+         {
+              "id": 286,
+              "name": "Delete Ticket"
+         }
+    ],
 }
