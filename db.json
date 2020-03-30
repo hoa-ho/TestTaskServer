@@ -196,5 +196,28 @@
               "id": 286,
               "name": "Delete Task"
          }
-    ]
+    ],
+
+    "taskQueues": [
+         {
+              "id": 21,
+              "title": "Uncompleted Tasks",
+              "slug": "uncompleted"
+         },
+         {
+              "id": 22,
+              "title": "Completed Tasks",
+              "slug": "completed"
+         },
+         {
+              "id": 23,
+              "title": "Overdue Tasks",
+              "slug": "overdue"
+         },
+         {
+              "id": 24,
+              "title": "Closed Tasks",
+              "slug": "closed"
+         }
+    ],
 }
